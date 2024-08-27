@@ -63,17 +63,3 @@ Feel free to explore my repositories and projects. Let's build something amazing
 <p align="center">
   <img src="https://profile-counter.glitch.me/YourGitHubUsername/count.svg" alt="Visitor Count" style="animation: bounce 2s infinite;"/>
 </p>
-
-<style>
-  @keyframes bounce {
-    0%, 20%, 50%, 80%, 100% {
-      transform: translateY(0);
-    }
-    40% {
-      transform: translateY(-30px);
-    }
-    60% {
-      transform: translateY(-15px);
-    }
-  }
-</style>
