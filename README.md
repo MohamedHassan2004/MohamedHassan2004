@@ -1,9 +1,13 @@
 # Hi there! 👋 I'm Mohamed Hassan
 
 ## About Me ℹ️
-I am a third-year Computer Science student at Helwan University, specializing in full-stack development with a focus on backend development using .NET. I am passionate about building scalable, efficient, and user-friendly applications. I am always eager to learn new technologies and solve challenging problems.
+🎓 I am a third-year Computer Science student at Helwan University, specializing in full-stack development with a focus on backend development using .NET. I have a strong passion for technology and problem-solving, and I thrive in environments where innovation and creativity are encouraged.
 
-## Skills 🚀
+💻 My journey in tech has led me to develop a robust skill set in both frontend and backend technologies, with a particular focus on building scalable and efficient applications.
+
+🌍 I am always eager to learn new technologies, explore cutting-edge frameworks, and solve complex challenges in the world of software development.
+
+## Skills & Expertise 🚀
 
 ### Programming Languages
 <p align="left">
@@ -15,14 +19,31 @@ I am a third-year Computer Science student at Helwan University, specializing in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
+### Frameworks & Tools
+- **Frontend:** Angular, Bootstrap
+- **Backend:** ASP.NET
+- **Database Management:** MySQL, MongoDB, SQL Server
+- **Version Control:** Git, GitHub
+
 ### Additional Skills
-- **Problem Solving:** Strong analytical and problem-solving abilities honed through coursework and competitive programming.
-- **Fast Learning:** Quickly adapts to new technologies and frameworks.
-- **Communication:** Effective communicator with experience working in collaborative team environments.
+- **🚀 Problem Solving:** Strong analytical skills developed through extensive practice in data structures, algorithms, and competitive programming.
+- **📚 Fast Learning:** Quickly adapts to new technologies and frameworks, with a commitment to continuous learning.
+- **💬 Communication:** Effective communicator with experience in collaborative team environments, capable of conveying complex ideas clearly and concisely.
+
+## Projects & Contributions 💼
+
+I have worked on several projects, ranging from web applications to data analysis tools. Below are a few highlights:
+
+- **Portfolio Website:** A personal portfolio showcasing my projects, skills, and experience.
+- **Social Networking Website:** A full-featured social networking platform enabling users to connect, share content, and interact in real-time.
+
+You can explore more of my projects on [GitHub](https://github.com/YourGitHubUsername).
 
 ## Connect with Me 🌐
-I’m always open to discussing new projects, creative ideas, or opportunities to be part of your vision. You can reach me at:
-- LinkedIn: [Mohamed Hassan](https://www.linkedin.com/in/mohamed-hassan-07137827b)
+Let's connect and discuss how we can collaborate on exciting tech projects! You can reach me at:
+- 📧 Email: mo7amedhassan2004@gmail.com
+- 💼 LinkedIn: [Mohamed Hassan](https://www.linkedin.com/in/mohamed-hassan-07137827b)
+- 🌐 Portfolio: [My Portfolio](https://fzkhfeq3ezbf7p6hqazzmg.on.drv.tw/mohamedhassan.portfolio/)
 
 Feel free to explore my repositories and projects. Let's build something amazing together! 🌟
 
@@ -30,15 +51,29 @@ Feel free to explore my repositories and projects. Let's build something amazing
 
 ## GitHub Stats 📊
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" style="animation: bounce 2s infinite;"/>
 </p>
 
 ## Top Languages Used 🌐
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" style="animation: bounce 2s infinite;"/>
 </p>
 
 ## Visitor Count 👀
 <p align="center">
-  <img src="https://profile-counter.glitch.me/YourGitHubUsername/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/YourGitHubUsername/count.svg" alt="Visitor Count" style="animation: bounce 2s infinite;"/>
 </p>
+
+<style>
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-30px);
+    }
+    60% {
+      transform: translateY(-15px);
+    }
+  }
+</style>
