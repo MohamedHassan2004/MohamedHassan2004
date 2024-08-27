@@ -22,7 +22,7 @@
 ### Frameworks & Tools
 - **Frontend:** Angular, Bootstrap
 - **Backend:** ASP.NET
-- **Database Management:** MySQL, MongoDB, SQL Server
+- **Database Management:** MySQL, SQL Server
 - **Version Control:** Git, GitHub
 
 ### Additional Skills
