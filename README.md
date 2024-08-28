@@ -37,7 +37,7 @@ I have worked on several projects, ranging from web applications to data analysi
 - **Portfolio Website:** A personal portfolio showcasing my projects, skills, and experience.
 - **Social Networking Website:** A full-featured social networking platform enabling users to connect, share content, and interact in real-time.
 
-You can explore more of my projects on [GitHub](https://github.com/YourGitHubUsername).
+You can explore more of my projects on [GitHub](https://github.com/MohamedHassan2004).
 
 ## Connect with Me 🌐
 Let's connect and discuss how we can collaborate on exciting tech projects! You can reach me at:
