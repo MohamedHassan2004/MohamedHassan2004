@@ -51,7 +51,7 @@ Feel free to explore my repositories and projects. Let's build something amazing
 
 ## GitHub Stats 📊
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" style="animation: bounce 2s infinite;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedHassan2004&show_icons=true&theme=radical" alt="GitHub Stats" style="animation: bounce 2s infinite;"/>
 </p>
 
 ## Top Languages Used 🌐
