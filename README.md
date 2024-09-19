@@ -56,10 +56,10 @@ Feel free to explore my repositories and projects. Let's build something amazing
 
 ## Top Languages Used 🌐
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" style="animation: bounce 2s infinite;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHassan2004&layout=compact&theme=radical" alt="Top Languages" style="animation: bounce 2s infinite;"/>
 </p>
 
 ## Visitor Count 👀
 <p align="center">
-  <img src="https://profile-counter.glitch.me/YourGitHubUsername/count.svg" alt="Visitor Count" style="animation: bounce 2s infinite;"/>
+  <img src="https://profile-counter.glitch.me/MohamedHassan2004/count.svg" alt="Visitor Count" style="animation: bounce 2s infinite;"/>
 </p>
