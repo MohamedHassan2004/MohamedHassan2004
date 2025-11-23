@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Mohamed Hassan
 
 ## About Me ℹ️
-🎓 I am a third-year Computer Science student at Helwan University, specializing in full-stack development with a focus on backend development using .NET. I have a strong passion for technology and problem-solving, and I thrive in environments where innovation and creativity are encouraged.
+🎓 I am a Senior Computer Science student at Helwan University, specializing in full-stack development with a focus on backend development using .NET. I have a strong passion for technology and problem-solving, and I thrive in environments where innovation and creativity are encouraged.
 
 💻 My journey in tech has led me to develop a robust skill set in both frontend and backend technologies, with a particular focus on building scalable and efficient applications.
 
@@ -17,17 +17,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Docker" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
+
 </p>
 
 ### Frameworks & Tools
-- **Frontend:** Angular, Bootstrap
+- **Frontend:** Tailwind, Bootstrap
 - **Backend:** ASP.NET Core Web API
+- **Fullstack:** ASP.NET Core MVC
 - **Database Management:** MySQL, SQL Server
 - **Version Control:** Git, GitHub
-- **Containerization:** Docker (Basic knowledge)
 
 ### Additional Skills
 - **🚀 Problem Solving:** Strong analytical skills developed through extensive practice in data structures, algorithms, and competitive programming.
